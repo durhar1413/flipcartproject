@@ -18,6 +18,8 @@ public class EmpDetails {
 		
 		s1 = "bjb";
 	System.out.println("code of s1 : "+System.identityHashCode(s1));
+	
+	System.out.println("Sucess");
 		
 		
 		
